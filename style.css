@@ -45,15 +45,16 @@ img {
 }
 
 .text {
-  margin: 1rem;
+  margin: 1.15 1rem;
 }
 
-h1 {
+h2 {
   color: var(--Dark-blue);
 }
 
 p {
   margin-top: 1rem;
+  margin-bottom: 0.5rem;
   color: var(--Grayish-blue);
 }
 
