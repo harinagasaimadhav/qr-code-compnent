@@ -56,3 +56,9 @@ p {
   margin-right: 0.5rem;
   color: var(--Grayish-blue);
 }
+
+@media screen and (min-width: 968px) {
+  section {
+    padding-top: 9.5rem;
+  }
+}
